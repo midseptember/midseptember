@@ -1,6 +1,6 @@
 ---
 title: Ethics - Baruch Benedict Spinoza
-draft: true
+draft: false
 tags:
 ---
   
